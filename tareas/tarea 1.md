@@ -22,5 +22,7 @@ En la asignación de la actividad en el grupo de Teams, entrega una notebook que
 
 5. Investiga algunos casos reales del uso *indebido* de LLMs en la actualidad.
 
+6. Crea algún *prompt* para algún LLM que produzca información erronea o que no proporcione información útil. 
+
 **Fecha de entrega:**  Viernes 16 de agosto, en la asignación de Teams.
 
